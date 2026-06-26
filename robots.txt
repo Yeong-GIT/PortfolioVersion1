@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://testdeployment.github.io/al-folio/sitemap.xml
+Sitemap: https://Yeong-GIT.github.io/PortfolioVersion1/sitemap.xml
